@@ -13,6 +13,11 @@ public class Main {
         String verb1;
         String adjective3;
 
+        System.out.println("Today I went to a " + adjective1+"zoo");
+        System.out.println("In an exhibit , I saw a  "+noun1 + ".");
+        System.out.println(noun1 +"was"+ adjective2 +"and"+verb1+"!");
+        System.out.println("I was " + adjective3 +"!");
+
 
     }
 }
