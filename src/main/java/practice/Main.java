@@ -41,9 +41,10 @@ public class Main {
                 System.out.println("bot wins");
             } else if (randomoutcome.equals("scissor") && playerans.equals("rock")) {
                 System.out.println("player wins");
+            } else {
+                System.out.println("try again");
             }
         }
-
 
 
 
